@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26387'
     url: http://www.gutenberg.org/2009/agents/26387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24307#The-Twenty-fifth-Regiment-Connecticut-Volunteers-in-the-War-of-the-RebellionBend-Carrying-of-_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
