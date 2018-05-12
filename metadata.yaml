@@ -1,0 +1,43 @@
+_repo: The-Twenty-fifth-Regiment-Connecticut-Volunteers-in-the-War-of-the-RebellionBend-Carrying-of-__24307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Goodell, Henry Hill
+    gutenberg_agent_id: '26388'
+    url: http://www.gutenberg.org/2009/agents/26388
+  - agent_name: Ellis, Samuel K.
+    gutenberg_agent_id: '26386'
+    url: http://www.gutenberg.org/2009/agents/26386
+  - agent_name: Bissell, George P.
+    gutenberg_agent_id: '26385'
+    url: http://www.gutenberg.org/2009/agents/26385
+  - agent_name: McManus, Thomas
+    gutenberg_agent_id: '26387'
+    url: http://www.gutenberg.org/2009/agents/26387
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. Connecticut Infantry Regiment, 25th (1862-1863)'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'Mississippi River -- History -- Civil War, 1861-1865'
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Connecticut'
+title: 'The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion
+
+  History, Reminiscences, Description of Battle of Irish
+
+  Bend, Carrying of Pay Roll, Roster'
+url: http://www.gutenberg.org/ebooks/24307
